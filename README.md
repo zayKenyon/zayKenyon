@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: https://github.com/isaacKenyon/valorant-live-match-rank-grabber
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: [![Discord](https://img.shields.io/discord/872101595037446144?color=%236a7ec5&label=discord&logo=discord&style=for-the-badge)](https://discord.gg/HeTKed64Ka)
+- 📫 How to reach me: [![Discord](https://img.shields.io/discord/872101595037446144?color=7289da&logo=discord&logoColor=7289da&style=for-the-badge)](https://discord.gg/HeTKed64Ka)
 - 😄 Pronouns: He/Him, She/Her, They/Them
 - ⚡ Fun fact: Code is the #1 reason why I cry myself to sleep everynight
 
