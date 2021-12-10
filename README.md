@@ -32,10 +32,10 @@
 <!-- SHIELDs & URLs-->
 
 <!--Languages and Frameworks -->
-[python-shield]: https://img.shields.io/badge/Python-3.7+-yellow?style=flat-square&logo=python&logoColor=white&labelColor=yellow
+[python-shield]: https://img.shields.io/badge/Python%20-3.7+-yellow?style=flat-square&logo=python&logoColor=black&labelColor=yellow
 [python-url]: https://www.python.org/about/
 
-[javascript-shield]: https://img.shields.io/badge/JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=white
+[javascript-shield]: https://img.shields.io/badge/JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
 
 [html-shield]: https://img.shields.io/badge/HTML-e96228?style=flat-square&logo=html5&logoColor=white
@@ -45,10 +45,10 @@
 [css-url]:https://www.w3.org/TR/css-2020/
 
 <!-- Tools -->
-[pycharm-shield]: https://img.shields.io/badge/Pycharm%20Professional-yellow?style=flat-square&logo=pycharm
+[pycharm-shield]: https://img.shields.io/badge/Pycharm%20Professional-yellow?style=flat-square&logo=pycharm&logoColor=black
 [pycharm-url]: https://www.jetbrains.com/pycharm/
 
-[webstorm-shield]: https://img.shields.io/badge/WebStorm-blue?style=flat-square&logo=webstorm
+[webstorm-shield]: https://img.shields.io/badge/WebStorm-blue?style=flat-square&logo=webstorm&logoColor=black
 [webstorm-url]: https://www.jetbrains.com/webstorm/
 
 [vs-code-shield]: https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode
