@@ -19,7 +19,7 @@ jobs:
           user: isaacKenyon
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
+          config_timezone: Europe/London
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
