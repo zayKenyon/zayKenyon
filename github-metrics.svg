@@ -329,23 +329,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">GiselleBot-Documentation</span>
-                                <div class="bar" style="width: 32.903999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">41%</span>
+                                <div class="bar" style="width: 23.128%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SeroBot</span>
-                                <div class="bar" style="width: 19.880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 20.68%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">26%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">next-discord-dashboard</span>
-                                <div class="bar" style="width: 11.120000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Lowlander</span>
-                                <div class="bar" style="width: 6.184000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <span class="name">react-wordle</span>
+                                <div class="bar" style="width: 10.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                         </div>
                     </section>
@@ -353,7 +353,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2022, 00:31:16 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 02:00:45 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
