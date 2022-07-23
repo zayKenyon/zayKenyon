@@ -45,6 +45,7 @@ jobs:
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_languages: yes
+          commits_authoring: Zay Kenyon, isaacKenyon, isaac@kenyon.co.uk
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
