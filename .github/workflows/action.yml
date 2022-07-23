@@ -45,11 +45,6 @@ jobs:
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
