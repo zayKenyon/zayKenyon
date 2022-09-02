@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1363" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1313" class="">
     <defs>
         <style/>
     </defs>
@@ -404,6 +404,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">invite-tracking</span>
+                                        in
+                                        <span class="repo">zayKenyon/sovbot</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -472,59 +488,6 @@
                                         <span class="code">imgbot</span>
                                         in
                                         <span class="repo">zayKenyon/VALORANT-rank-yoinker</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">zayKenyon/VALORANT-rank-yoinker</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64d00f1</div>
-                                        <div class="message">Merge pull request #125 from zayKenyon/imgbot
-
-[ImgBot] Optimize images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a8689d</div>
-                                        <div class="message">[ImgBot] Optimize images
-
-*Total -- 533.28kb -&gt; 390.66kb (26.74%)
-
-/assets/Skin.png -- 11.16kb -&gt; 3.63kb (67.44%)
-/docs/assets/Skin.png -- 11.16kb -&gt; 3.63kb (67.44%)
-/docs/assets/Rank.png -- 6.92kb -&gt; 2.40kb (65.26%)
-/assets/Rank.png -- 6.92kb -&gt; 2.40kb (65.26%)
-/assets/PeakRank.png -- 11.17kb -&gt; 3.89kb (65.19%)
-/docs/assets/PeakRank.png -- 11.17kb -&gt; 3.89kb (65.19%)
-/docs/assets/Leaderboard.png -- 3.37kb -&gt; 1.29kb (61.57%)
-/assets/Leaderboard.png -- 3.37kb -&gt; 1.29kb (61.57%)
-/docs/assets/Rating.png -- 2.47kb -&gt; 1.07kb (56.83%)
-/assets/Rating.png -- 2.47kb -&gt; 1.07kb (56.83%)
-/assets/WR.png -- 6.23kb -&gt; 2.80kb (55.11%)
-/docs/assets/WR.png -- 6.23kb -&gt; 2.80kb (55.11%)
-/docs/assets/Level.png -- 3.83kb -&gt; 1.83kb (52.08%)
-/assets/Level.png -- 3.83kb -&gt; 1.83kb (52.08%)
-/assets/HS.png -- 3.18kb -&gt; 1.76kb (44.77%)
-/docs/assets/HS.png -- 3.18kb -&gt; 1.76kb (44.77%)
-/docs/assets/Party.png -- 1.23kb -&gt; 0.69kb (43.82%)
-/assets/Party.png -- 1.23kb -&gt; 0.69kb (43.82%)
-/docs/assets/Example.png -- 203.21kb -&gt; 162.34kb (20.11%)
-/assets/Example.png -- 203.21kb -&gt; 162.34kb (20.11%)
-/docs/assets/rpc.png -- 13.88kb -&gt; 13.62kb (1.82%)
-/assets/rpc.png -- 13.88kb -&gt; 13.62kb (1.82%)
-
-Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -698,7 +661,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2022, 01:42:28 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 2 Sept 2022, 04:32:31 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
