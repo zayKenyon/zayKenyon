@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1439" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1756" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    22.5k added, 16.8k removed
+                                    24.9k added, 17.4k removed
                                 </div>
                             </section>
                             <section>
@@ -407,6 +407,123 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">zayKenyon/discord-ban-appeals</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e180475</div>
+                                        <div class="message">Merge pull request #62 from What-Question-Mark/master
+
+Fixed some grammar issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d06161</div>
+                                        <div class="message">fixed some grammar issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7510cd4</div>
+                                        <div class="message">Merge pull request #61 from Default-Box/master
+
+Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b6a1ff</div>
+                                        <div class="message">Update README.md
+
+- Updated the README to the latest discord</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e041d25</div>
+                                        <div class="message">Apparently lowercase fixes it lol</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6af6950</div>
+                                        <div class="message">Fix same site policy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cfd116</div>
+                                        <div class="message">Fix bad cookie domain</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71c3db3</div>
+                                        <div class="message">Yay for outdated versions of node</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe31f30</div>
+                                        <div class="message">Fix missing replacement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a12e02</div>
+                                        <div class="message">Move CSRF checks to be server-side</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb2dc3a</div>
+                                        <div class="message">Try esbuild</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b619a2</div>
+                                        <div class="message">Wait for connection to be ready</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f74917f</div>
+                                        <div class="message">I'm bad</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#506a669</div>
+                                        <div class="message">More build script fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4ee229</div>
+                                        <div class="message">Try Eris</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fead833</div>
+                                        <div class="message">Update the nodejs runtime</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdd4b98</div>
+                                        <div class="message">oops</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#474dc07</div>
+                                        <div class="message">Migrate to ES modules because node-fetch decided its cool to support only ES modules</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb95105</div>
+                                        <div class="message">Merge pull request #46 from sylveon/dependabot/npm_and_yarn/node-fetch-3.1.1
+
+Bump node-fetch from 2.6.1 to 3.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc4f44f</div>
+                                        <div class="message">Bump node-fetch from 2.6.1 to 3.1.1
+
+Bumps [node-fetch](https://github.com/node-fetch/node-fetch) from 2.6.1 to 3.1.1.
+- [Release notes](https://github.com/node-fetch/node-fetch/releases)
+- [Changelog](https://github.com/node-fetch/node-fetch/blob/main/docs/CHANGELOG.md)
+- [Commits](https://github.com/node-fetch/node-fetch/compare/v2.6.1...v3.1.1)
+
+---
+updated-dependencies:
+- dependency-name: node-fetch
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">zayKenyon/sovbot</span>
                                     </div>
@@ -484,26 +601,6 @@
                                     <div class="commit">
                                         <div class="sha">#6cd9024</div>
                                         <div class="message">chore(discord.js): bump to 14.6.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">zayKenyon/sovbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b3d27f2</div>
-                                        <div class="message">fix(guildMemberUpdate): New Date fired each time</div>
                                     </div>
                                 </div>
                             </section>
@@ -672,7 +769,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2022, 20:25:08 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Oct 2022, 21:10:44 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
