@@ -619,7 +619,7 @@ I couldnt figure out how to extend the base TypeScript client to allow for clien
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2023, 04:09:16 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Feb 2023, 05:07:39 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
