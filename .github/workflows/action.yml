@@ -29,27 +29,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
-          plugin_lines: yes
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          plugin_wakatime_user: zayKenyon
