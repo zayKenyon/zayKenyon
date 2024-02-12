@@ -1,0 +1,40 @@
+#- title: Thing
+#  role: Thing
+#  web: true
+#  print: true
+#  tags:
+#    - Thing
+#    - Thing
+#  dates:
+#    start: Thing
+#    end: ~
+#  headline: Thing
+#  links:
+#    - Thing
+#    - Thing
+#  image:
+#    file: Thing
+#    position: center
+#  desc: |
+#    Thing
+
+projects:
+  - title: VALORANT rank yoinker
+    role: Open-Source Founder
+    web: true
+    tags:
+      - Python
+      - Open-source
+      - APIs
+    dates:
+      start: July 2021
+      end: '~'
+    headline: See VALORANT players' ranks, skins, and more mid-game.
+    links:
+      - https://zaykenyon.github.io/VALORANT-rank-yoinker/
+      - https://github.com/zayKenyon/VALORANT-rank-yoinker
+    image:
+      file: vRY.png
+      position: center
+    desc: |
+      A Python app which retrieves the VALORANT rank and players' equipped skins during a match.

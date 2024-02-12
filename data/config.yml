@@ -2,8 +2,8 @@ title: Isaac Kenyon
 
 
 meta:
-  header: Hey, I'm Isaac Kenyon 👋
-  description: Aspiring Computer Scientist with an interest in Cybersecurity!
+  header: 👋🌍
+  description: Isaac Kenyon
   facts:
     - title: "Who I am:"
       web: true
@@ -19,6 +19,10 @@ meta:
           link: https://github.com/sovereign-guides
         - title: Open-Source Founder @ VALORANT rank yoinker 🎮
           link: https://github.com/zayKenyon/VALORANT-rank-yoinker
+        - title: Community Lead @ (Selfhost) Zeppelin ✈️
+          link: https://zeppelin.wiki/
+        - title: Moderator/Community Support @ GiselleBot 🤖
+          link: https://docs.gisellebot.com
         - title: RLSS Qualified Lifeguard @ Leisure Centres 🛟
           link: https://www.rlss.org.uk/national-pool-lifeguard-qualification
 
@@ -33,9 +37,9 @@ meta:
 contact:
   email: me@knyn.uk
   links:
-    - title: "GitHub"
-      username: "zayKenyon"
+    - title: GitHub
+      username: zayKenyon
       url: https://github.com/zayKenyon
-    - title: "Discord"
-      username: "zaykenyon"
+    - title: Discord
+      username: zaykenyon
       url: https://discord.com/users/452793411401940995
