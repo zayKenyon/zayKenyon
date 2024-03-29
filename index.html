@@ -4,29 +4,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=2.0">
 
-    <title>Zay Kenyon</title>
+    <script type="text/javascript">
+        window.onload = function() {
+            const loadDate=new Date().toLocaleString();
+            const hoursPassed = loadDate.slice(12, 14);
+            console.log(hoursPassed)
+
+            if (hoursPassed > 18) return document.getElementById('greeting').innerHTML = "Good Evening, I'm Isaac Kenyon";
+            if (hoursPassed > 12) return document.getElementById('greeting').innerHTML = "Good Afternoon, I'm Isaac Kenyon";
+            return document.getElementById('greeting').innerHTML = "Good Morning, I'm Isaac Kenyon";
+        }
+
+    </script>
+
+    <title>Isaac Kenyon</title>
 </head>
 <body>
     <header>
-        <h1>Hey, I'm Zay Kenyon.</h1>
-        <aside>Also known as "@zayKenyon", "@zaykenyon", or "@zayk".</aside>
+        <h1 id="greeting">Hey, I'm Isaac Kenyon</h1>
+        <aside>Also known as "@zayKenyon"</aside>
     </header>
 
         <h2>I am an aspiring Computer Scientist with an interest in Cybersecurity! 😁</h2>
         <p>UK based college student studying A-levels in Mathematics, Computer
-            Science and Film Studies. I have also completed an EPQ for the extra
-            credit. Sometimes I have the odd occasion where I've found the time
-            (and motivation) to work on projects, of which the most notable can
-            be found on my <a href=https://github.com/zayKenyon target="_blank">GitHub</a>.
-            Most of my work is done in Python with newer experimentation done
-            in C.
+            Science and Film Studies (+EPQ). My notable projects, can be found
+            on my <a href=https://github.com/zayKenyon target="_blank">GitHub</a>.
+            Most of my work is done in Python and TS with newer experimentation
+            done in C.
         </p>
 
     <h2>Contact Me</h2>
-    <p>The easiest way to contact me would be over <a href="mailto:zaykenyon@pm.me" target="_blank">email</a>,
+    <p>The easiest way to contact me would be over email (me&#64;knyn&#46;uk)</a>,
         but you could also reach out over my <a href="https://discord.com/users/452793411401940995" target="_blank">Discord</a>;
         hell, you could even make a GitHub issue on my README if you really wanted — I'll see it.</p>
     <hr>
-    <p>Last updated on the 17<sup>th</sup> of December 2023</p>
+    <p>Last updated on the 29<sup>th</sup> of March 2024</p>
+    <p>Redesign coming in the summer ™️</p>
 </body>
 </html>
