@@ -14,15 +14,32 @@
         }
 
     </script>
-
+    <style>
+        body {
+            text-align: center
+        }
+        area {
+            cursor: default;
+        }
+    </style>
     <title>ISAAC KENYON</title>
 </head>
-<body style="text-align: center">
+<body>
     <header>
         <h1 ><i id="greeting">Hey, I'm Isaac Kenyon</i></h1>
     </header>
 
-    <img src="https://i.imgur.com/bGSsafo.jpg" style="height: 300px;" alt="Awesome Selfie"/>
+    <img src="https://i.imgur.com/bGSsafo.jpg"
+         style="height: 300px; cursor: default"
+         alt="Awesome Selfie"
+         usemap="#secrecy"
+    />
+    <map name="secrecy" id="secrecy">
+        <area shape="default"
+              alt="Secret passageway"
+              onclick="window.location = './writings'"
+        >
+    </map>
 
     <p>
         <a href="./about.html">about</a> |
